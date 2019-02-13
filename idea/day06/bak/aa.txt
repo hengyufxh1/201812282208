@@ -1,0 +1,4 @@
+hello	world!
+hello	mimi!
+hello	zhaoliying!
+hello	duanxingwei!
