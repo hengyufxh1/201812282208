@@ -1,7 +1,0 @@
-2018-10-30 09:43:36,345 [http-bio-80-exec-28] ERROR [com.sxzb.web.BaseFileController] - 
-2018-10-30 10:11:11,428 [http-bio-80-exec-10] ERROR [com.sxzb.web.BaseFileController] - 
-2018-10-30 10:13:28,356 [http-bio-80-exec-20] INFO  [com.sxzb.service.basefile.BaseFileInfoServiceImpl] - 添加附件数据:PlayerAPI_v1.0.6.pdf(名称)操作成功
-2018-10-30 10:13:29,383 [http-bio-80-exec-20] WARN  [org.hibernate.util.JDBCExceptionReporter] - SQL Error: 1403, SQLState: 02000
-2018-10-30 10:13:29,384 [http-bio-80-exec-20] ERROR [org.hibernate.util.JDBCExceptionReporter] - ORA-01403: 未找到数据
-ORA-06512: 在 "WISCRIS.STTB_FILEATTA_TRI", line 7
-ORA-04088: 触发器 'WISCRIS.STTB_FILEATTA_TRI' 执行过程中出错
